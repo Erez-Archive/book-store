@@ -38,5 +38,7 @@ export default {
 </script>
 
 <style composed>
-
+.book-edit {
+    background: lightgoldenrodyellow;
+}
 </style>

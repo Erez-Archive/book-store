@@ -46,4 +46,7 @@ export default {
 
   background: lightgray;
 }
+  .inline-flex {
+    display: inline-flex;
+  }
 </style>

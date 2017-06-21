@@ -37,7 +37,20 @@ export default {
 </script>
 
 <style scoped>
+.cart {
+    text-align: center;
+    min-width: 20%;
+    border-left: 2px solid gray;
+}
 
+.cart ul {
+    padding: 10px;
+}
+
+.cart>h2 {
+    color: white;
+    text-decoration: underline;
+}
 </style>
 
 
